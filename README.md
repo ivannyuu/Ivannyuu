@@ -30,7 +30,7 @@ I'm a former kinesiology major turned passionate computer science student at Sim
 
 
 📫 Let’s Connect!
-- 💼 [LinkedIn]([www.linkedin.com/in/ivan-y-447489132](https://www.linkedin.com/in/ivan-y-447489132/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivan-y-447489132/)
 - ✉️ [Email Me](mailto:yuivan2000@gmail.com)
   
 👀 Fun Fact: I love finding parallels between human biomechanics and code optimization. Just like in kinesiology, efficiency is key in programming!
